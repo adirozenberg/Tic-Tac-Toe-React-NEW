@@ -1,0 +1,10 @@
+.game-board {
+  width: 100vw;
+  height: 50vh;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+  grid-template-columns: repeat(3, auto);
+}

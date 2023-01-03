@@ -1,0 +1,17 @@
+.cell {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+  color: black;
+  font-size: 20px;
+  border-radius: 50%;
+  border: 7px solid grey;
+
+  border-radius: 100px;
+  background-color: pink;
+  box-shadow: 0 8px 8px black;
+}
